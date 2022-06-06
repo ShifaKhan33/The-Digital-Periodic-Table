@@ -5,6 +5,8 @@ The user can search for elements both by their periodic name and their atomic nu
 Once the user searches for an element, it’s details will be displayed.
 The Digital Periodic Table can also be used the display the whole periodic table at once.
 
+Language used- C++
+
 ## Features
 1. Displays the whole Periodic Table
 2. User can search for an element either by Atomic Number or by Element name and Symbol.
